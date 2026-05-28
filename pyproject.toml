@@ -23,8 +23,8 @@ description = "PLY file reader/writer"
 authors = [
     {name = "Darsh Ranjan", email = "dranjan@berkeley.edu"},
 ]
-dependencies = ["numpy>=1.21"]
-requires-python = ">=3.9"
+dependencies = ["numpy>=2.0"]
+requires-python = ">=3.10"
 readme = "README.md"
 license = {file = "COPYING"}
 keywords = ["ply", "numpy"]
@@ -33,11 +33,11 @@ classifiers = [
     "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
     "Topic :: Scientific/Engineering",
 ]
 

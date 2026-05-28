@@ -7,6 +7,9 @@ All notable changes to this project will be documented here.
 - Official suppot for Python 3.14.
 - Official support for NumPy 2.4.
 
+### Removed
+- Official support for Python 3.9.
+
 ## [1.1.3] - 2025-10-21
 ### Changed
 - Skip empty header lines to improve interoperability. Thanks to @JTvD
